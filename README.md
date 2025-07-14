@@ -75,6 +75,10 @@ If you enjoy the course or you find it useful, please add a **Star**
 
 ***ALL-IN-ONE BOOK***: **[modern-cpp.pdf](https://github.com/federico-busato/Modern-CPP-Programming/blob/master/modern-cpp.pdf)** (could be a few commits behind)
 
+## AI Programming Agents
+
+**[Programming Agent Capabilities](Agent_Capabilities.md)** - Comprehensive guide on what programming agents can do to assist with C++ development, including code generation, analysis, debugging, and learning support.
+
 ## TOPICS IN DETAILS
 
 **[1. Introduction](https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf)**
